@@ -26,7 +26,7 @@ import java.util.List;
 
 /**
  * 自定义无限轮播控件
- * <p/>
+ *
  * Created by zczhang on 16/1/22.
  */
 public class InfinityLoopViewPager extends RelativeLayout implements ViewPager.OnPageChangeListener {

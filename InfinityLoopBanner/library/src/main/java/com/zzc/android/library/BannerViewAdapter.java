@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * 数据适配器
- * <p/>
+ *
  * Created by zczhang on 16/1/22.
  */
 public class BannerViewAdapter<T> extends PagerAdapter {
