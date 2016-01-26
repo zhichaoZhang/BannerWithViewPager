@@ -5,6 +5,8 @@ import android.support.v4.view.PagerAdapter;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.zzc.android.infinityloopviewpager.R;
+
 import java.util.List;
 
 /**

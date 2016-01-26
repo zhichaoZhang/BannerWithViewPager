@@ -17,6 +17,7 @@ import android.widget.RelativeLayout;
 import com.facebook.drawee.backends.pipeline.Fresco;
 import com.facebook.drawee.drawable.ScalingUtils;
 import com.facebook.drawee.view.SimpleDraweeView;
+import com.zzc.android.infinityloopviewpager.R;
 
 import java.util.ArrayList;
 import java.util.List;
