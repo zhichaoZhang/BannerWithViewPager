@@ -13,7 +13,7 @@
     tools:showIn="@layout/activity_main"
     tools:context="com.zzc.android.infinityloopbanner.MainActivity">
 
-    <com.zzc.android.library.InfinityLoopViewPager
+    <com.zzc.android.infinityloopviewpager.InfinityLoopViewPager
         android:id="@+id/banner"
         android:layout_width="match_parent"
         android:layout_height="300dp"

@@ -1,6 +1,5 @@
 package com.zzc.android.infinityloopbanner;
 
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -10,8 +9,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.facebook.drawee.backends.pipeline.Fresco;
-import com.zzc.android.library.InfinityLoopViewPager;
+import com.zzc.android.infinityloopviewpager.InfinityLoopViewPager;
 
 import java.util.ArrayList;
 import java.util.List;

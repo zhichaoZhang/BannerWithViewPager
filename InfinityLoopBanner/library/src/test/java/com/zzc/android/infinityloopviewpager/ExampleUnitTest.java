@@ -1,4 +1,4 @@
-package com.zzc.android.library;
+package com.zzc.android.infinityloopviewpager;
 
 import org.junit.Test;
 

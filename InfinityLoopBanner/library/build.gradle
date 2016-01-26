@@ -31,7 +31,7 @@ publish {
     userOrg = 'joye'
     groupId = 'com.zzc'
     artifactId = 'InfinityLoopBanner'
-    publishVersion = '0.1.0'
+    publishVersion = '1.0.0'
     desc = 'one component of infinity loop banner'
-    website = 'https://github.com/zhichaoZhang/TouchScaleImage'
+    website = 'https://github.com/zhichaoZhang/BannerWithViewPager'
 }
