@@ -31,7 +31,7 @@ publish {
     userOrg = 'joye'
     groupId = 'com.zzc'
     artifactId = 'InfinityLoopBanner'
-    publishVersion = '1.0.0'
+    publishVersion = '1.0.1'
     desc = 'one component of infinity loop banner'
     website = 'https://github.com/zhichaoZhang/BannerWithViewPager'
 }
